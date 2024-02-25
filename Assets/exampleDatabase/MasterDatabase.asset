@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2b64db8f54baf4a87f62b2c6f404c5, type: 3}
+  m_Name: MasterDatabase
+  m_EditorClassIdentifier: 
+  Levels:
+  - {fileID: 11400000, guid: a783426217394b543a0e0527def1c5b3, type: 2}
+  - {fileID: 11400000, guid: c01a1bdcf05b93444a83d046b66af733, type: 2}
+  - {fileID: 11400000, guid: bca772f7673583e4fb3c71482ab83324, type: 2}
+  - {fileID: 11400000, guid: f2254efd64215764293ff583f32b3028, type: 2}
+  - {fileID: 11400000, guid: fa0d5c5be6ee54b439c7b46231dceb2c, type: 2}
+  - {fileID: 11400000, guid: aeb86a4d020410f46b498d481f9b908d, type: 2}
+  - {fileID: 11400000, guid: cc6c417bf122bac4787521ba5a907e2f, type: 2}
+  Rewards:
+  - {fileID: 11400000, guid: 6c7b25d60c953064db55321c62177f3a, type: 2}
+  - {fileID: 11400000, guid: 16c017aebaba0554d98ef17ee32bda6c, type: 2}
+  - {fileID: 11400000, guid: d5d339b17ab8fee4cafbb86c32b74105, type: 2}
+  - {fileID: 11400000, guid: 330ab00ee1aec7c42bf1afcf7b958040, type: 2}
+  - {fileID: 11400000, guid: 3d9cffb4ca0060b47a96a40767860a50, type: 2}
+  - {fileID: 11400000, guid: 9ff2f10521e34224481ed660d542ddbe, type: 2}
+  - {fileID: 11400000, guid: 86580f3c7414cfe4a847df89f46e1ac3, type: 2}
+  RewardPrefabs:
+  - {fileID: 5615379532853522686, guid: 31bd4071029f84944963f69b6c4ed9cf, type: 3}
+  - {fileID: 6361317865386600278, guid: 986b2350d68568844b9458a603ca7b40, type: 3}
+  - {fileID: 3908699694630849730, guid: e70333f987b9edc4aa99775e1875a660, type: 3}
+  - {fileID: 2946807250229091953, guid: b699c119595313e40a6b402ed0a5e7cf, type: 3}
+  - {fileID: 8932199762762867642, guid: 107a3c123cd35794fbb75612fb86aaef, type: 3}
+  - {fileID: 6234415353647349078, guid: fb0bc5aa0998ac74e890c62be6d7d2a2, type: 3}
+  - {fileID: 6234415353647349078, guid: 57f5c57e50cabb948884397a878be617, type: 3}

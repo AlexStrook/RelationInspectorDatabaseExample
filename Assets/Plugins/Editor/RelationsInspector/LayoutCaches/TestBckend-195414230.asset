@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -262343771, guid: eb4eaaabc8cc3594aa76719228fcd76f, type: 3}
+  m_Name: TestBckend-195414230
+  m_EditorClassIdentifier: 
+  vertexPositions:
+  - vertexId: 19412
+    vertexPosition: {x: 0.6332437, y: 0.607796}
+  - vertexId: 19384
+    vertexPosition: {x: 1.2767466, y: 0.89641047}
+  - vertexId: -12692
+    vertexPosition: {x: -0.1354759, y: 0.091408364}
+  - vertexId: -13230
+    vertexPosition: {x: -0.88484013, y: -0.33991912}
+  - vertexId: 19400
+    vertexPosition: {x: -0.26869974, y: 0.9468817}
+  - vertexId: 19416
+    vertexPosition: {x: -1.011988, y: 0.47686428}
+  - vertexId: 19408
+    vertexPosition: {x: 0.7175785, y: -0.33345497}
+  - vertexId: 19404
+    vertexPosition: {x: -0.07712729, y: -0.8082135}
+  - vertexId: 19376
+    vertexPosition: {x: -1.4082483, y: -0.89376086}
+  - vertexId: 19380
+    vertexPosition: {x: -0.34378108, y: 1.6123502}
+  - vertexId: 19388
+    vertexPosition: {x: 1.3611833, y: -0.6581025}
+  - vertexId: 19392
+    vertexPosition: {x: 0.14535205, y: -1.5824343}
+  transform:
+    translation: {x: 0, y: 0}
+    scale: {x: 1, y: 1}
+    rotation: 0
+  widgetType: 0

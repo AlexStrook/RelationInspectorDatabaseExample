@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -262343771, guid: eb4eaaabc8cc3594aa76719228fcd76f, type: 3}
+  m_Name: TestBckend-195446334
+  m_EditorClassIdentifier: 
+  vertexPositions:
+  - vertexId: -12692
+    vertexPosition: {x: -0.008417796, y: -0.1562204}
+  - vertexId: -13230
+    vertexPosition: {x: 0.9243591, y: -0.4399998}
+  - vertexId: 19400
+    vertexPosition: {x: 0.18701428, y: -1.0832411}
+  - vertexId: 19416
+    vertexPosition: {x: 0.67080283, y: 0.48625886}
+  - vertexId: 19412
+    vertexPosition: {x: -0.20881811, y: 0.78282905}
+  - vertexId: 19408
+    vertexPosition: {x: -0.7300095, y: -0.78552043}
+  - vertexId: 19404
+    vertexPosition: {x: -0.91085815, y: 0.15465549}
+  - vertexId: 19376
+    vertexPosition: {x: 1.6741556, y: -0.6432255}
+  - vertexId: 19380
+    vertexPosition: {x: 0.45108345, y: -1.8036877}
+  - vertexId: -14856
+    vertexPosition: {x: 1.1588964, y: 1.055791}
+  - vertexId: 19384
+    vertexPosition: {x: -0.3683276, y: 1.530148}
+  - vertexId: 19388
+    vertexPosition: {x: -1.4023796, y: -1.171829}
+  - vertexId: 19392
+    vertexPosition: {x: -1.6434407, y: 0.4034354}
+  - vertexId: 19774
+    vertexPosition: {x: -0.72574586, y: -2.1716177}
+  - vertexId: -39130
+    vertexPosition: {x: 2.2174368, y: -0.08951648}
+  - vertexId: -39132
+    vertexPosition: {x: 1.251791, y: -1.8643895}
+  - vertexId: -39134
+    vertexPosition: {x: 1.8600466, y: 1.2736081}
+  - vertexId: -39136
+    vertexPosition: {x: -0.9341948, y: 2.0231133}
+  - vertexId: -39138
+    vertexPosition: {x: -2.1018553, y: -0.7769877}
+  - vertexId: -39140
+    vertexPosition: {x: -1.9512284, y: 1.092034}
+  - vertexId: -39142
+    vertexPosition: {x: 0.6197596, y: 2.1662676}
+  transform:
+    translation: {x: 0, y: 0}
+    scale: {x: 1, y: 1}
+    rotation: 0
+  widgetType: 0

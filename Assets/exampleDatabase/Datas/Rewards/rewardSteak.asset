@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f467930a8b2f79b46a682d8e4b19f437, type: 3}
+  m_Name: rewardSteak
+  m_EditorClassIdentifier: 
+  RewardName: Steak
+  RewardPrefab: {fileID: 6234415353647349078, guid: fb0bc5aa0998ac74e890c62be6d7d2a2,
+    type: 3}
+  LinkedLevel: {fileID: 11400000, guid: aeb86a4d020410f46b498d481f9b908d, type: 2}

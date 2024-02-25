@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -262343771, guid: eb4eaaabc8cc3594aa76719228fcd76f, type: 3}
+  m_Name: TestBckend-195414250
+  m_EditorClassIdentifier: 
+  vertexPositions:
+  - vertexId: 19392
+    vertexPosition: {x: 0.00000009404388, y: 0.00000014615071}
+  transform:
+    translation: {x: 0, y: 0}
+    scale: {x: 1, y: 1}
+    rotation: 0
+  widgetType: 0

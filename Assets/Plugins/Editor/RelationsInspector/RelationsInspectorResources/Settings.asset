@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1643148027, guid: eb4eaaabc8cc3594aa76719228fcd76f, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  cacheLayouts: 1
+  maxGraphNodes: 670
+  treeRootLocation: 1
+  showMinimap: 1
+  minimapLocation: 0
+  layoutTweenParameters:
+    maxFrameDuration: 0.004
+    vertexPosTweenDuration: 0.4
+    vertexPosTweenUpdateInterval: 0.25
+  graphLayoutParameters:
+    idealDistance: 1
+    posInitRange: 5
+    numIterations: 200
+    initalMaxMove: 0.2
+    gravityStrength: 3
+  logToConsole: 1
+  invertZoom: 0
+  repaintEachFrame: 0
